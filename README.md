@@ -12,7 +12,7 @@
 - 📫 How to reach me: [LinkedIn - Jean Kalo](https://www.linkedin.com/in/jean-kalo-04b3391b8/)
 - ⚡ Upcoming Front-End-Developer.
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/jeancoding">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeancoding&show_icons=true&theme=dark&line_height=27" alt="Jean's github stats"/>
 </a>
 <div align="center">
