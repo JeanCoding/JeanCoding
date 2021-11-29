@@ -1,7 +1,7 @@
 ## Jean Kalo👋
 
 <a href="https://linkedin.com/in/imthepk">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="JeanCoding" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br/>
@@ -20,4 +20,4 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JeanCoding&label=Views&color=brightgreen&style=flat" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JeanCoding&label=Views&color=brightgreen&style=flat" alt="JeanCoding" /> </p>
