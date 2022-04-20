@@ -1,6 +1,6 @@
 ## Hey, I am Jean Kalo👋
 
-<a href="https://linkedin.com/in/imthepk">
+<a href="https://linkedin.com/in/jeankalo">
   <img align="left" alt="JeanCoding" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
